@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/_avik_ghosh" target="blank"><img src="https://img.shields.io/twitter/follow/_avik_ghosh?logo=twitter&style=for-the-badge" alt="_avik_ghosh" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, react.js, Tailwind**
+- 🌱 I’m currently learning **Node.js, react.js, Tailwind, UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://avikghosh2605.github.io/Portfolio/](https://avikghosh2605.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, UI/UX**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **avikghosh2605@gmail.com**
 
