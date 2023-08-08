@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://avikghosh2605.github.io/Portfolio/](https://avikghosh2605.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, UI/UX**
 
 - 📫 How to reach me **avikghosh2605@gmail.com**
 
